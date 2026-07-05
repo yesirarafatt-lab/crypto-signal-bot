@@ -1,0 +1,4 @@
+/* Tailwind directives + custom CSS variables. Status: scaffolded. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

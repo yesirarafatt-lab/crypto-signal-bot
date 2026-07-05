@@ -1,0 +1,2 @@
+# Builds and pushes the four Docker images on release tag.
+# Status: scaffolded — implementation pending.

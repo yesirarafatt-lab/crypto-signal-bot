@@ -1,0 +1,7 @@
+"""
+Aggregates Indicator Engine outputs into a directional score.
+
+Status: scaffolded — implementation pending.
+"""
+
+from __future__ import annotations
